@@ -5,3 +5,4 @@
 * [Field Selection 2018](https://cepdnaclk.github.io/fieldselection/2018/)
 * [Field Selection 2019](https://cepdnaclk.github.io/fieldselection/2019/)
 * [Field Selection 2020](https://cepdnaclk.github.io/fieldselection/2020/)
+* [Field Selection 2021](https://cepdnaclk.github.io/fieldselection/2021/)
