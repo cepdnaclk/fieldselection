@@ -9,3 +9,4 @@
 * [Field Selection 2022](https://cepdnaclk.github.io/fieldselection/2022/)
 * [Field Selection 2023](https://cepdnaclk.github.io/fieldselection/2023/)
 * [Field Selection 2024](https://cepdnaclk.github.io/fieldselection/2024/)
+* [Field Selection 2025](https://cepdnaclk.github.io/fieldselection/2025/)
